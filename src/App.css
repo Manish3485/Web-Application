@@ -1,0 +1,54 @@
+.navbar-nav .nav-item .nav-link {
+  text-transform: uppercase;
+  margin: 0 20px;
+  text-decoration: none;
+  color: #fff;
+}
+.navbar-nav {
+  margin: 0;
+  padding: 20px 0;
+  display: inline-block;
+}
+nav.navbar {
+  background-color: #000;
+  color: #fff;
+}
+.navbar-nav .nav-item {
+  list-style: none;
+  text-align: center;
+}
+nav.navbar .logo {
+  display: inline-block;
+  font-size: 32px;
+  vertical-align: sub;
+  padding-left: 15px;
+}
+.pagebody {
+  padding: 0;
+  display: flex;
+  height: auto;
+  width: 100%;
+  background-color: #eee;
+  height: 400px;
+  align-items: center;
+  text-align: center;
+}
+.pagebody header.App-header {
+  width: 100%;
+}
+
+
+.pagebody header.App-header .banner h1 {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 80px;
+}
+
+.pagebody header.App-header .banner h2 {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 40px;
+  font-weight: 500;
+}
